@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1575915935 source:e:\cours\coding\programmes\code block\sms(console)\smsapp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conversation.h"
+	"loginregister.h"
+	"utils.h"
+
+1575913797 e:\cours\coding\programmes\code block\sms(console)\smsapp\conversation.h
+
+1575388155 e:\cours\coding\programmes\code block\sms(console)\smsapp\conversation.c
+	<stdio.h>
+	<stdlib.h>
+	"conversation.h"
+
+1575925010 source:e:\cours\coding\programmes\code block\sms(console)\smsapp\conversation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"conversation.h"
+	"utils.c"
+
+1575921138 source:e:\cours\coding\programmes\code block\sms(console)\smsapp\loginregister.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"loginregister.h"
+	"utils.h"
+
+1575913797 e:\cours\coding\programmes\code block\sms(console)\smsapp\loginregister.h
+
+1575921138 e:\cours\coding\programmes\code block\sms(console)\smsapp\utils.h
+
+1575912481 e:\cours\coding\programmes\code block\sms(console)\smsapp\main.h
+
+1575924239 e:\cours\coding\programmes\code block\sms(console)\smsapp\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dir.h>
+	<dirent.h>
+	"utils.h"
+
